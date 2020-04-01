@@ -2,6 +2,6 @@
 <html>
   <body>
     <p>My name is Benjamin!</p>
-    <a href="about.md">Find out more about me here!</a>
+    <a href="about">Find out more about me here!</a>
   </body>
 </html>
