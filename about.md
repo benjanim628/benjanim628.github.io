@@ -1,6 +1,6 @@
 <html>
   <body>
     <p>My name is Benjamin!</p>
-    <a href="www.google.com">Click me</a>
+    <a href="">Click me</a>
   </body>
 </html>
