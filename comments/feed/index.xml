@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Nurturing Hope	</title>
-	<atom:link href="http://benjanim628.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://benjanim628.github.io</link>
+	<atom:link href="https://benjanim628.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://benjanim628.github.io</link>
 	<description></description>
 	<lastBuildDate>Sun, 22 Jul 2018 19:04:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on 1 by Anonymous		</title>
-		<link>http://benjanim628.github.io/give-donation-1/#comment-2</link>
+		<link>https://benjanim628.github.io/give-donation-1/#comment-2</link>
 
 		<dc:creator><![CDATA[Anonymous]]></dc:creator>
 		<pubDate>Sun, 22 Jul 2018 19:04:22 +0000</pubDate>
-		<guid isPermaLink="false">http://benjanim628.github.io/wp/?post_type=give_payment&#038;p=123#comment-2</guid>
+		<guid isPermaLink="false">https://benjanim628.github.io/wp/?post_type=give_payment&#038;p=123#comment-2</guid>
 
 					<description><![CDATA[Status changed from Pending to Complete.]]></description>
 			<content:encoded><![CDATA[<p>Status changed from Pending to Complete.</p>
