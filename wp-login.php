@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Nurturing Hope &#8212; WordPress</title>
 		<script type="text/javascript">function theChampLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){t();e()}}}</script>
-		<script type="text/javascript">var theChampDefaultLang = 'en_US', theChampCloseIconPath = 'http://localhost/mysite/wp-content/plugins/super-socializer/images/close.png';var heateorSsSDKBlockedMsg = `Your browser is blocking some features of this website. Please follow the instructions at <a href=\'http://support.heateor.com/browser-blocking-social-features/\' target=\'_blank\' style=\'color:#33a9d8\'>http://support.heateor.com/browser-blocking-social-features/</a> to unblock these.`</script>
-		<script> var theChampSiteUrl = 'http://localhost/mysite', theChampVerified = 0, theChampEmailPopup = 0; </script>
+		<script type="text/javascript">var theChampDefaultLang = 'en_US', theChampCloseIconPath = '/wp-content/plugins/super-socializer/images/close.png';var heateorSsSDKBlockedMsg = `Your browser is blocking some features of this website. Please follow the instructions at <a href=\'http://support.heateor.com/browser-blocking-social-features/\' target=\'_blank\' style=\'color:#33a9d8\'>http://support.heateor.com/browser-blocking-social-features/</a> to unblock these.`</script>
+		<script> var theChampSiteUrl = '', theChampVerified = 0, theChampEmailPopup = 0; </script>
 			<script> var theChampFBKey = '', theChampFBLang = 'en_US', theChampFbLikeMycred = 0, theChampSsga = 0, theChampCommentNotification = 0, theChampHeateorFcmRecentComments = 0, theChampFbIosLogin = 0; </script>
-				<script> var theChampSharingAjaxUrl = 'http://localhost/mysite/wp-admin/admin-ajax.php', heateorSsUrlCountFetched = [], heateorSsSharesText = 'Shares', heateorSsShareText = 'Share', theChampPluginIconPath = 'http://localhost/mysite/wp-content/plugins/super-socializer/images/logo.png', theChampHorizontalSharingCountEnable = 0, theChampVerticalSharingCountEnable = 0, theChampSharingOffset = -10, theChampCounterOffset = -10, theChampMobileStickySharingEnabled = 0, heateorSsCopyLinkMessage = "Link copied.";
-		var heateorSsHorSharingShortUrl = "http://localhost/mysite/wp-login.php";var heateorSsVerticalSharingShortUrl = "http://localhost/mysite/wp-login.php";		</script>
+				<script> var theChampSharingAjaxUrl = '/wp-admin/admin-ajax.php', heateorSsUrlCountFetched = [], heateorSsSharesText = 'Shares', heateorSsShareText = 'Share', theChampPluginIconPath = '/wp-content/plugins/super-socializer/images/logo.png', theChampHorizontalSharingCountEnable = 0, theChampVerticalSharingCountEnable = 0, theChampSharingOffset = -10, theChampCounterOffset = -10, theChampMobileStickySharingEnabled = 0, heateorSsCopyLinkMessage = "Link copied.";
+		var heateorSsHorSharingShortUrl = "/wp-login.php";var heateorSsVerticalSharingShortUrl = "/wp-login.php";		</script>
 			<style type="text/css">
 	.the_champ_horizontal_sharing .theChampSharing{
 					color: #fff;
@@ -79,7 +79,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
-									<input type="hidden" name="redirect_to" value="http://localhost/mysite/wp-admin/" />
+									<input type="hidden" name="redirect_to" value="/wp-admin/" />
 									<input type="hidden" name="testcookie" value="1" />
 			</p>
 		</form>
@@ -99,7 +99,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 <script type='text/javascript' src='/wp-content/plugins/super-socializer/js/front/sharing/sharing.js?ver=7.12'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var _zxcvbnSettings = {"src":"http:\/\/localhost\/mysite\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>

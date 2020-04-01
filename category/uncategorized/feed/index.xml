@@ -22,6 +22,7 @@
 	<item>
 		<title>Vrygrond Interviews</title>
 		<link>/vrygrond-interviews/</link>
+					<comments>/vrygrond-interviews/#respond</comments>
 		
 		<dc:creator><![CDATA[ben]]></dc:creator>
 		<pubDate>Thu, 30 Aug 2018 20:23:05 +0000</pubDate>
@@ -42,12 +43,15 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>/vrygrond-interviews/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Where Rainbows Meet</title>
 		<link>/where-rainbows-meet/</link>
+					<comments>/where-rainbows-meet/#respond</comments>
 		
 		<dc:creator><![CDATA[ben]]></dc:creator>
 		<pubDate>Thu, 30 Aug 2018 15:23:37 +0000</pubDate>
@@ -148,6 +152,8 @@
 <p>I am personally extremely impressed by the incredible work this organization does.</p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>/where-rainbows-meet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -200,6 +206,7 @@
 		<item>
 		<title>Where It Started</title>
 		<link>/where-it-started/</link>
+					<comments>/where-it-started/#respond</comments>
 		
 		<dc:creator><![CDATA[ben]]></dc:creator>
 		<pubDate>Tue, 17 Jul 2018 14:33:42 +0000</pubDate>
@@ -219,6 +226,8 @@
 <p>It was the new school year and I didn’t do much towards my project but one day I decided that it would be a smart idea perhaps to get in touch with other NGO’s to see what was already being done to help disadvantaged communities and what I could do to help. My mother told me about a women named Angela who was connected to the CCE and also started her own NGO named the Butterfly Art Project. This NGO was based in Vreygrond, a township near Retreat suffering from extreme poverty. I asked my mom if she could speak to Angela and arrange a meeting.</p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>/where-it-started/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
